@@ -11,6 +11,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Martín-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javimar/)
 [![Google Play](https://img.shields.io/badge/Google%20Play-JaviMar-blue?style=for-the-badge&logo=appveyor)](https://play.google.com/store/apps/dev?id=7194183657110594453)
 
+[![Landings...](https://hitsofcode.com/github/javimar/javimar?branch=main)](https://hitsofcode.com/github/javimar/javimar/view?branch=main)
+
 ## Some YouTube videos:
 
 <table style="width:100%">
