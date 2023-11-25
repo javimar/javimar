@@ -7,7 +7,7 @@
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
 
 ## Find me at:
-[![YouTube](https://img.shields.io/badge/YouTube-Javi_Martin-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCXhhuip39rAVPqRPDyBKu7A)
+[![YouTube](https://img.shields.io/badge/YouTube-Javi_Martin-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@javimardeveloper)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Martín-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javimar/)
 [![Google Play](https://img.shields.io/badge/Google%20Play-JaviMar-blue?style=for-the-badge&logo=appveyor)](https://play.google.com/store/apps/dev?id=7194183657110594453)
 
@@ -29,7 +29,7 @@
 	</a>
 	</td>
 	  <td>
-		<a href="https://youtu.be/12NXA5ZYOeU">
+		<a href="https://youtu.be/yO2tKOJEVuE">
   			<img src="https://user-images.githubusercontent.com/19972636/233596821-689badab-f5bf-4a78-825a-5c5326c9f9ac.JPG">
 		</a>
 	</td>
